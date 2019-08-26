@@ -11,3 +11,7 @@ xpack.monitoring.ui.container.elasticsearch.enabled: true
 #
 elasticsearch.username: elastic
 elasticsearch.password: changeme
+
+## X-Pack translations to ja-JP
+#
+i18n.locale: "ja-JP"
